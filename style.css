@@ -103,3 +103,10 @@ header {
     height: auto;
     min-width: 2vw;
 }
+
+.user-main {
+    display: grid;
+    grid-template-columns: auto 1fr auto auto auto;
+    gap: 20px;
+    align-items: center;
+}
