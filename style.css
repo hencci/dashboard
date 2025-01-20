@@ -79,3 +79,10 @@ header {
     padding: 15px;
     gap: 25px;
 }
+
+.search {
+    display: grid;
+    grid-template-columns: auto 1fr auto auto auto;
+    align-items: center;
+    gap: 20px;
+}
