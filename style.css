@@ -70,3 +70,12 @@ img {
 .large {
     width: 50px;
 }
+
+header {
+    background-color: #FFFFFF;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 2fr;
+    padding: 15px;
+    gap: 25px;
+}
