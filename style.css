@@ -29,6 +29,27 @@ aside {
     padding: 10px;
 }
 
+.dashboard {
+    display: grid;
+    grid-template-columns: 2fr 6fr;
+    padding: 0.3rem;
+    font-size: min(1.3rem, 2vw)
+}
+
+aside>ul>li {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    gap: 10px;
+    align-items: center;
+    font-size: min(1.3rem, 1.5vw);
+    margin-bottom: 1rem;
+}
+
+ul {
+    list-style: none;
+    padding: inherit;
+}
+
 img {
     object-fit: contain;
     display: block;
