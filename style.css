@@ -110,3 +110,20 @@ header {
     gap: 20px;
     align-items: center;
 }
+
+.user-main > div {
+    font-size: min(1rem, 1.5vw);
+}
+
+.username {
+    font-size: min(1.5rem, 2vw);
+}
+
+button{
+    background-color: #0284C7;
+    color: #FFFFFF;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 20px;
+    font-size: min(1rem, 1.5vw);
+}
