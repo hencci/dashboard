@@ -23,7 +23,7 @@ It is not responsive on mobile view.
 1. Clone the repository:
    git clone https://github.com/hencci/dashboard.git
 2. Navigate to the project directory:
-   cd signup-form-2
+   cd dashboard
 3. Open the index.html file in a web browser.
 
 ### Screenshot
